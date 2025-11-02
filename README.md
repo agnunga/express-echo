@@ -103,9 +103,6 @@ Adds a new message.
 
 - Built with [Express.js](https://expressjs.com/)
 - Styled with custom CSS
-- Icons from [Font Awesome](https://fontawesome.com/)
-- `POST /api/messages` - Add a new message
-  - Request body: `{ "text": "Your message here" }`
 
 ## Project Structure
 
